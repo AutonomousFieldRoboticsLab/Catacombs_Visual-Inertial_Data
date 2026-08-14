@@ -1,4 +1,4 @@
-# -Catacombs_Visual-Inertial_Data
+# Catacombs_Visual-Inertial_Data
 This dataset contains visual inertial data for an experiment at the Catacombs section of an underwater cave in Devil's Eye Cave System, FL, USA.
 
 One dive was performed at the Catacombs section of the  Devil's Eye Cave System with durations of 55 (2024), while data were recorded for 39 minutes.

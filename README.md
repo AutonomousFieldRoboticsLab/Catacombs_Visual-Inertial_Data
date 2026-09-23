@@ -41,3 +41,5 @@ The directory structure is as follows:
    
 ### Citation
 If find this dataset useful, please cite:
+M. Chatzispyrou et al., "[Mapping the Catacombs: An Underwater Cave Segment of the Devil’s Eye System](https://ieeexplore.ieee.org/abstract/document/11690971)," in IEEE Transactions on Field Robotics, doi: 10.1109/TFR.2026.3733775.
+
